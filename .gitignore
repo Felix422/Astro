@@ -1,2 +1,4 @@
 config.py
 __pyconfig__
+ffmpeg.exe
+cogs/__pycache__
